@@ -1,18 +1,22 @@
 # 💬 Flutter Chat App – Real-time Messaging with Firebase & Dart  
 
 🚀 A **real-time chat application** built using **Flutter, Firebase, and Dart**. Secure, fast, and easy to use. Perfect for personal and business communication.  
-
 <img src="https://github.com/user-attachments/assets/7d02c191-d329-4aa3-8b68-9d627099ae5b" width="90" height="90" alt="Flutter Chat App Banner">
 
 
-## 🌟 Features  
+## 🌟 Key Features
 
-✅ **Real-time messaging** with Firebase Firestore  
-✅ **User authentication** (Google Sign-In, Email & Password)  
-✅ **Push notifications** for new messages  
-✅ **Media sharing** (Images, Videos, Files)  
-✅ **Typing indicators & read receipts**  
-✅ **Beautiful & responsive UI** with Flutter  
+⚡ Real-time Messaging powered by Firebase Firestore
+
+🔑 User Authentication with Google Sign-In & Email/Password
+
+🔔 Push Notifications for new messages
+
+📷 Media Sharing – images, videos, and files
+
+✍️ Typing Indicators & Read Receipts
+
+🎨 Beautiful & Responsive UI built with Flutter
 
 
 ## 🚀 Tech Stack  
